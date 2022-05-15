@@ -8,11 +8,12 @@ Dependencies: composer, PHPMailer, Dotenv
 
 Usage:
 Since .env file is located in .gitignore, you should make one with following variables
-        -DB_USER => name of the owner of database
-         -DB_PASS => password of the owner
-        -DBC => mysql:host=<your hostname>;dbname=<your db name>;charset=UTF8
-          -GUSER => gmail account name
-          -GPASS => gmail account password
+
+                -DB_USER => name of the owner of database
+                -DB_PASS => password of the owner
+                -DBC => mysql:host=<your hostname>;dbname=<your db name>;charset=UTF8
+                -GUSER => gmail account name
+                -GPASS => gmail account password
 
 Fill out the form for registration with your credentials, email will be sent to email address given.
 After clicking the link account is verified and you can log in from now on.
