@@ -1,4 +1,3 @@
 PHP Source Code
-composer is located here, will remove later 
-contains logic for registration of users in model/ directory
+contains routes and logic from input forms for registration of users in model/ directory
 classes/ directory contains class for user registration and validating user input 
