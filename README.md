@@ -21,5 +21,5 @@ After clicking the link account is verified and you can log in from now on.
 Todos can be removed after they are completed.
 What is left, is to do some tests, add guest user, limit the number of users that can use one username and add screenshots, as well as make the site more pretty.
 
-  ![Alt text](public/view/includes/Screenshot_2022-05-15_23-41-30.png "Login page")
+  ![Alt text](public/view/includes/login.png "Login page")
 
