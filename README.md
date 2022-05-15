@@ -24,4 +24,8 @@ What is left, is to do some tests, add guest user, limit the number of users tha
   Login page:
 
   ![Alt text](public/view/includes/login.png "Login page")
+  
+  
+  Todo Page:
+  ![Alt text](public/view/includes/todo_page.png "Login page")
 
