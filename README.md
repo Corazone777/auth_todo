@@ -16,7 +16,7 @@ Since .env file is located in .gitignore, you should make one with following var
     -GPASS => gmail account password
 
 Fill out the form for registration with your credentials, email will be sent to email address given.
-After clicking the link account is verified and you can log in from now on.
+After clicking the link account is verified and you can log in.
 
 
 Todos can be removed after they are completed.
